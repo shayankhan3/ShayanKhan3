@@ -6,7 +6,7 @@ I help businesses save time and grow revenue by automating lead generation, cust
 
 ---
 
-### 🔧 What I Build
+###  What I Build
 
 - **WhatsApp AI Receptionists & Chatbots** — automated customer support and query handling
 - **Lead Qualification & Routing Systems** — AI agents that qualify and route leads automatically, with CRM/calendar integration
@@ -16,7 +16,7 @@ I help businesses save time and grow revenue by automating lead generation, cust
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Automation & Orchestration:** n8n (self-hosted, Docker)
 **AI/LLMs:** OpenAI GPT-4, Groq (Llama 3.3), LangChain
@@ -26,7 +26,7 @@ I help businesses save time and grow revenue by automating lead generation, cust
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 Check out my pinned repositories below for full project breakdowns, including the problems solved and architecture used.
 
