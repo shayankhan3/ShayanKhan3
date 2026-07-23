@@ -16,13 +16,13 @@ I help businesses save time and grow revenue by automating lead generation, cust
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
-**Automation & Orchestration:** n8n (self-hosted, Docker)
-**AI/LLMs:** OpenAI GPT-4, Groq (Llama 3.3), LangChain
-**Vector Search:** Pinecone, HuggingFace Embeddings
-**Integrations:** Evolution API (WhatsApp), Google Sheets, Gmail, Google Calendar
-**Languages:** Python
+- **Automation & Orchestration:** n8n (self-hosted, Docker)
+- **AI/LLMs:** OpenAI GPT-4, Groq (Llama 3.3), LangChain
+- **Vector Search:** Pinecone, HuggingFace Embeddings
+- **Integrations:** Evolution API (WhatsApp), Google Sheets, Gmail, Google Calendar
+- **Languages:** Python
 
 ---
 
